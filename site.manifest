@@ -1,0 +1,26 @@
+{
+    "name": "BloggerSEO",
+    "short_name": "BloggerSEO",
+    "lang": "id",
+    "icons": [
+        {
+            "src": "https://cdn.statically.io/gh/herdianurdin/samiode/main/favicon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://cdn.statically.io/gh/herdianurdin/samiode/main/favicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "splash_pages": null,
+    "theme_color": "#25262c",
+    "background_color": "#25262c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "prefer_related_applications": false,
+    "start_url": "https://www.bloggerseo.my.id"
+}
